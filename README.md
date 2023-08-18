@@ -14,3 +14,4 @@ or Pro if its a commercial project
 Add your name and click continue
 
 # Step 4
+click on "continue with Github" button
